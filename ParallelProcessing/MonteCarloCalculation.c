@@ -1,3 +1,10 @@
+/*!
+ * @file
+ * @brief
+ *
+ * Copyright (c) Junho Kang
+ */
+
 #include "MonteCarloCalculation.h"
 #include <stdlib.h>
 #include <stdio.h>

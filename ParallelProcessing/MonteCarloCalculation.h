@@ -1,3 +1,10 @@
+/*!
+ * @file
+ * @brief
+ *
+ * Copyright (c) Junho Kang
+ */
+
 #include <pthread.h>
 
 typedef struct

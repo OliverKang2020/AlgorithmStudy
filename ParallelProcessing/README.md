@@ -1,4 +1,4 @@
-# sw-a-course-2022.parallel-processing-submission-oliver
+Copyright (c) Junho Kang
 
 ### How To Work
 You can try updating parameters in main.c. 
