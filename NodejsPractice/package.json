@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-practice",
+  "version": "0.0.1",
+  "description": "self training space for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "npx hello-world-npm",
+    "hello2": "hello-world-npm",
+    "package": "pkg index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hello-world-npm": "^1.1.1"
+  }
+}
