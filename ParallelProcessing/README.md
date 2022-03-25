@@ -1,3 +1,4 @@
+Copyright (c) Junho Kang
 
 ### How To Work
 You can try updating parameters in main.c. 
