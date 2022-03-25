@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Copyright (c) Junho Kang
-=======
->>>>>>> origin/main
 
 ### How To Work
 You can try updating parameters in main.c. 
