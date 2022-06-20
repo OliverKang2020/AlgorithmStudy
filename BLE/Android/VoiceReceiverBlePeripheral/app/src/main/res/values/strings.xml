@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceReceiverBlePeripheral</string>
+    <string name="adv_on_button">Start Advertising</string>
+    <string name="adv_off_button">Stop Advertising</string>
+</resources>

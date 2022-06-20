@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoiceTransmitterBleCentral</string>
+    <string name="button1_string">Start Scan</string>
+    <string name="central_connection_screen">Central Connection screen</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="characteristic_value_received">Characteristic value received: %1$d</string>
+</resources>
